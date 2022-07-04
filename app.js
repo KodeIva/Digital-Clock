@@ -49,7 +49,7 @@
     container.style.color = 'white'
     
    } else if (hours >= 12 && hours < 18) {
-    document.body.style.backgroundImage = 'url(img-1.jpg)'
+    document.body.style.backgroundImage = 'url(img-3.jpg)'
     container.style.color = 'rgb(8, 17, 131)'
    } else if(hours >= 18) {
     document.body.style.backgroundImage = 'url(img-4.jpg)'
